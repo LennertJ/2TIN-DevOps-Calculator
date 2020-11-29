@@ -4,7 +4,7 @@
      <title>2TIN Devops - Calculator</title>
      <link rel="stylesheet" href="assets/css/bootstrap.min.css">
      <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="assets/css/test.style.css">
+    <link rel="stylesheet" href="assets/css/Test.style.css">
     </head>
     <body>
     <h1>2TIN DevOps - Calculator</h1><hr/>
